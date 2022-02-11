@@ -3,7 +3,7 @@ package main;
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		// Esto es una prueba de un conflicto
+		// Nuevo comentario sin conflictos
 		System.out.println("Hola mundo");
 	}
 
